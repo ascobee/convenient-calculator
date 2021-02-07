@@ -1,9 +1,9 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # calculator.py
 
 """GUI Calculator.
 
-This calculator can perform addition, subtraction, multiplication, 
+This calculator can perform addition, subtraction, multiplication,
 division, and more.
 
 Example:
